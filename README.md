@@ -24,7 +24,7 @@ The goal is not only predictive accuracy, but also:
 **Framingham Heart Study Dataset**
 
 Source:
-https://www.kaggle.com/datasets/amanajmera1/framingham-heart-study-dataset
+https://www.kaggle.com/code/shikhnu/ensemble-learning-stacking-algorithm
 
 Target variable:
 - `TenYearCHD` → 1 if patient develops CHD within 10 years
